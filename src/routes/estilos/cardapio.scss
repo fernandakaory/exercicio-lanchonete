@@ -1,0 +1,27 @@
+#tituloCardapio{
+    text-align: center;
+    padding: 30px;
+    color: red;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+
+  td {
+    border: 1px solid gray;
+  }
+}
+
+@for $x from 1 through 5 {
+  .item-#{$x} {
+    td {
+      text-align: center;
+      width: 25%
+      ;
+      img {
+        width: 50%;
+      }
+    }
+  }
+}

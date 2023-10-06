@@ -1,0 +1,53 @@
+#tituloCardapio {
+  text-align: center;
+  padding: 30px;
+  color: red;
+}
+
+table {
+  margin: auto;
+  border-collapse: collapse;
+}
+table td {
+  border: 1px solid gray;
+}
+
+.item-1 td {
+  text-align: center;
+  width: 25%;
+}
+.item-1 td img {
+  width: 50%;
+}
+
+.item-2 td {
+  text-align: center;
+  width: 25%;
+}
+.item-2 td img {
+  width: 50%;
+}
+
+.item-3 td {
+  text-align: center;
+  width: 25%;
+}
+.item-3 td img {
+  width: 50%;
+}
+
+.item-4 td {
+  text-align: center;
+  width: 25%;
+}
+.item-4 td img {
+  width: 50%;
+}
+
+.item-5 td {
+  text-align: center;
+  width: 25%;
+}
+.item-5 td img {
+  width: 50%;
+}/*# sourceMappingURL=cardapio.css.map */
