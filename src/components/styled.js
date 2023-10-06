@@ -10,7 +10,7 @@ justify-content: space-between;
 align-items: center;
 width: 100%;
 background-color: #ffffff;
-border-bottom: 2px solid ;
+/* border-bottom: 2px solid ; */
 padding: 1rem 2.5rem;
 }
 
@@ -29,7 +29,7 @@ img{
 h1 {
     font-family: 'Handjet', cursive;
     font-size: 2.5em;
-    color: red;
+    color: #fc7e7e;
 }
 
 ul{
@@ -45,7 +45,7 @@ li {
 }
 
 & li:hover {
-    background-color: red;
+    background-color: #fc7e7e;
     color: #ffffff;
     border-radius: 3px;
 }
@@ -55,13 +55,15 @@ li {
     display: flex;
     align-items: center;
     text-decoration: none;
-    color: red;
+    color: #fc7e7e;
 }
 
 p {
     margin: 0;
     text-align: center;
     padding: 1rem 0.6rem;
+    background-color: #fc7e7e;
+    color: #ffffff;
 }
 
 `
@@ -72,11 +74,14 @@ flex-direction: column;
 justify-content: center;
 align-items: center;
 color:black;
-border-top: 1px solid black;
-margin-top: 2em;
+/* border-top: 1px solid black; */
+margin-top: 4em;
 padding: 3em;
 gap: 20px;
-background-color:red;
+background-color:#fc7e7e;
+
+
+
 
 .rodape__informacoes {
     text-align: center;
