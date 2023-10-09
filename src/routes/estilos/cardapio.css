@@ -5,11 +5,18 @@
 }
 
 table {
-  margin: auto;
+  margin: 0 4em;
   border-collapse: collapse;
 }
 table td {
   border: 1px solid gray;
+}
+
+tfoot {
+  text-align: center;
+}
+tfoot td {
+  padding: 2em;
 }
 
 .item-1 td {
