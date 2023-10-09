@@ -76,7 +76,7 @@ align-items: center;
 color:black;
 /* border-top: 1px solid black; */
 margin-top: 4em;
-padding: 3em;
+padding: 3.2em;
 gap: 20px;
 background-color:#fc7e7e;
 
