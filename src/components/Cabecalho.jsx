@@ -8,7 +8,7 @@ export default function Cabecalho() {
         <nav>
           <div>
             <img src={BurgerLogo} alt="Logo de hamburger" />
-            <h1>Lanches</h1>
+            <h1>Lanchess</h1>
           </div>
 
           <ul>
